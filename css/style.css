@@ -81,7 +81,7 @@ body {
     color: var(--hover-link-color);
 }
 
-.header-navigaton-link-first{
+.header-navigaton-link{
     font-weight: 500;
     color: var(--second-dark-background-color);
 }
