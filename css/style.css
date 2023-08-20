@@ -147,13 +147,17 @@ body {
     background-color: var(--second-light-background-color);
 }
 
-.team-title {}
-
-.team-list {
-    background-color: #FFFFFF;
+.team-title {
+    letter-spacing: 0.02em;
 }
 
-.team-item {}
+.team-list {
+    
+}
+
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-list-img {}
 
