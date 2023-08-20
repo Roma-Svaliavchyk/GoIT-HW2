@@ -81,6 +81,11 @@ body {
     color: var(--hover-link-color);
 }
 
+.header-navigaton-link-first{
+    font-weight: 500;
+    color: var(--second-dark-background-color);
+}
+
 .header-address {
     font-style: normal;
 }
@@ -107,8 +112,8 @@ body {
     line-height: 24px;
     letter-spacing: 0.64px;
     font-family: "Roboto", sans-serif;
-    background-color: var(--hover-link-color);
     cursor: pointer;
+    background-color: #4D5AE5
 }
 
 .hero-button:hover,
